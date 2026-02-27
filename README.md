@@ -9,6 +9,7 @@ A C-based bus ticket reservation system with user authentication, booking, and a
 - User registration and login
 - Book and cancel tickets
 - Admin panel to manage buses and schedules and create deatiled reports
+- Notification system with real time updates
 - Save data in local files
 
 ## How to Run
