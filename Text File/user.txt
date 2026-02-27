@@ -1,0 +1,10 @@
+User1 1234 user1@gmail.com 60123456789 Jalan Ampang, Kuala Lumpur
+User2 1234 user2@yahoo.com 60111222333 Bukit Bintang, Kuala Lumpur
+User3 1234 user3@hotmail.com 60198765432 George Town, Penang
+User4 1234 user4@outlook.com 60134567890 Johor Bahru, Johor
+User5 1234 user5@gmail.com 60155667788 Melaka City, Melaka
+User6 1617 user6@yahoo.com 60199887766 Kuantan, Pahang
+User7 1819 user7@live.com 60163332211 Kota Kinabalu, Sabah
+User8 2021 user8@hotmail.com 60175554433 Kuching, Sarawak
+User9 2223 user9@outlook.com 60186667744 Ipoh, Perak
+User10 2425 user10@gmail.com 60142221155 Seremban, Negeri Sembilan

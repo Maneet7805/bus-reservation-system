@@ -1,0 +1,3 @@
+User1,BUS1001,KualaLumpur,Penang
+User1,BUS1001,Penang,KualaLumpur
+User2,BUS1005,Sibu,Kuching
